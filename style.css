@@ -265,6 +265,12 @@ section {
     background-size: cover;
 }
 
+.swiper-slide:nth-child(8){
+    background: linear-gradient(to top, #0f2027, #203a4300, #2c536400), url("erris.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
 /* Content */
 .content{
     display: flex;

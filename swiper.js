@@ -51,6 +51,11 @@ document.addEventListener('DOMContentLoaded', function () {
             title: "GINOONG",
             subtitle: "Kenzy",
             description: "<b>Full Name:</b> Kenzy Moral<br><b>Birthday:</b> October 19, 2004"
+        },
+        {
+            title: "GINOONG",
+            subtitle: "Joosten",
+            description: "<b>Full Name:</b> Erris Arevalo<br><b>Birthday:</b> March 9, 2003"
         }
     ];
     swiper.on('slideChange', function () {
